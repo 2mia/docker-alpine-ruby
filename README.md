@@ -15,7 +15,7 @@ Usage Example
 -------------
 
 ```bash
-$ docker run --rm frolvlad/alpine-ruby ruby -e 'puts "Hello World"'
+$ docker run --rm 2mia/alpine-ruby ruby -e 'puts "Hello World"'
 ```
 
 Once you have run this command you will get printed 'Hello World' from Ruby!
